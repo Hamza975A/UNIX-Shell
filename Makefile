@@ -1,5 +1,5 @@
 # Variables to be used for implicit rules
-CFLAGS=-std=c11 -Wall -Wextra
+CFLAGS= -Wall -Wextra
 CC=gcc
 
 # Phony rules
